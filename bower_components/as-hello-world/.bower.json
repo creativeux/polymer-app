@@ -1,0 +1,26 @@
+{
+  "name": "as-hello-world",
+  "main": "as-hello-world.html",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^2.0.0"
+  },
+  "devDependencies": {
+    "iron-demo-helpers": "PolymerElements/iron-demo-helpers#^2.0.0",
+    "web-component-tester": "Polymer/web-component-tester#^6.0.0",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^1.0.0"
+  },
+  "resolutions": {
+    "polymer": "^2.0.0"
+  },
+  "homepage": "https://github.com/creativeux/polymer-hello",
+  "_release": "0.1",
+  "_resolution": {
+    "type": "tag",
+    "tag": "0.1",
+    "commit": "aaf60dd2e7987ab4a968e6051f7be5c4d94fe409"
+  },
+  "_source": "https://github.com/creativeux/polymer-hello.git",
+  "_target": "0.1",
+  "_originalSource": "creativeux/polymer-hello",
+  "_direct": true
+}
