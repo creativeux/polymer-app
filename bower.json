@@ -6,8 +6,7 @@
     "polymer": "Polymer/polymer#^2.0.0",
     "as-hello-world": "creativeux/polymer-hello#feature/incorporate-theme",
     "as-goodbye-world": "creativeux/polymer-goodbye#feature/incorporate-theme",
-    "as-styles": "creativeux/polymer-styles#0.0.1",
-    "font-roboto": "PolymerElements/font-roboto#^1.0.1"
+    "as-styles": "creativeux/polymer-styles#0.0.1"
   },
   "devDependencies": {
     "web-component-tester": "Polymer/web-component-tester#^6.0.0",
